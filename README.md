@@ -10,5 +10,14 @@
 ## Feature http-client documentation
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+---
+
+## Create Micronaut Project through Command Line
+
+- [Install Micronaut](https://docs.micronaut.io/1.1.4/guide/index.html#installSdkman)
+- Check Micronaut version
+  - mn --version
+- Run Following Commands from Terminal/CommandLine
+  - mn create-app hello-world
 
 
